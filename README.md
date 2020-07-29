@@ -1,6 +1,6 @@
 # Name: Tommy Cao
 # Date: 12/12/19
-# Description: React Enzyme testing
+# Description: React-Testing-Library testing
 
 ### `npm install`
 
