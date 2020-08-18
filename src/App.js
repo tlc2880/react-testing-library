@@ -15,7 +15,7 @@ export const App = () => {
   return (
     <main>
       <header>
-        <h1 data-testid="main-heading">Tommy's Burritos-RTL</h1>
+        <h1 data-testid="main-heading">Tommy's Burritos-Cypress E2E Testing</h1>
       </header>
 
       <div className="container">
